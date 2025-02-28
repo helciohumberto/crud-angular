@@ -1,0 +1,22 @@
+.course-container {
+  max-width: 900px; /* Define uma largura máxima */
+  margin: 40px auto; /* Centraliza e adiciona espaçamento */
+  padding: 20px;
+}
+
+.table-container {
+  margin-top: 20px;
+  overflow-x: auto; /* Se a tabela for muito grande, permite rolagem horizontal */
+}
+
+mat-toolbar {
+  font-size: 20px;
+  font-weight: bold;
+}
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; // Ajuste conforme necessário
+}
+
